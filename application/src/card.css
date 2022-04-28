@@ -1,0 +1,22 @@
+.payment-form{
+    background-color: blueviolet;
+    padding: 1.2vmax;
+    width: auto;
+}
+.pay > h1{
+    margin-left: 3.2vmax;
+}
+.payment{
+    background-color: blueviolet;
+    display: block;
+    padding: 2vmax;
+    width: 4vmax;
+    margin-left: 3vmax;
+    text-align: center;
+    padding:  1.5vmax 4vmax 1.5vmax 2.5vmax;
+    font-size: 1.2vmax;
+    font-family: "ROBOTO";
+    align-items: center;
+    border-radius: 10%;
+    
+}
